@@ -1,8 +1,11 @@
 {
-  "name": "vue-smooth-dnd",
-  "version": "0.8.1",
+  "name": "gc-vue-smooth-dnd",
+  "version": "0.8.2",
   "description": "Vue wrappers for smooth-dnd",
-  "author": "Kutlu Sahin",
+  "author": {
+    "name": "Gold Carrot",
+    "email": "studio@goldcarrot.ru"
+  },
   "homepage": "https://kutlugsahin.github.io/vue-smooth-dnd/",
   "repository": {
     "type": "git",
@@ -45,7 +48,7 @@
     "url": "https://github.com/kutlugsahin/vue-smooth-dnd/issues"
   },
   "dependencies": {
-    "smooth-dnd": "0.12.1"
+    "gc-smooth-dnd": "0.12.2"
   },
   "devDependencies": {
     "babel-jest": "^23.4.0",
